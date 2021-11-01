@@ -4,14 +4,14 @@ Buenos días,
 
 
 
-Lo primero que haremos será configurar el ambiente y ejecutar Python.
+Lo primero que haremos será configurar el ambiente y ejecutar  C.
 
-Para este taller no es necesario instalar Python en su máquina. Para comenzar sólo será necesario:
+Para este taller no es necesario instalar C en su máquina. Para comenzar sólo será necesario:
 
-**1.** Darle click al siguiente enlace  `archivodeprueba.py`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
+**1.** Darle click al siguiente enlace  `archivodeprueba.c`{{open}}. El cual creara una archivo de C en el cual puede empezar a programar
 
 
-**Ejecución de Python**
+**Ejecución de X**
 
 Una vez se han completado estos pasos, podemos ejecutar Python en la terminal. Para esto sólo es necesario escribir: 
 
@@ -23,9 +23,9 @@ Si desea salir de la consola de python escriba:
 
 `quit()`{{copy}}
 
-**Ejecución de un archivo .py**
+**Ejecución de un archivo .c**
 
-Puede utilizar al archivo "archivodeprueba.py" creado anteriormente. 
+Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
 
 Pruebe copiando esto en su archivo: 
 
@@ -33,7 +33,7 @@ Pruebe copiando esto en su archivo:
 
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
-`python3 archivodeprueba.py`{{execute}}
+`python3 archivodeprueba.c`{{execute}}
 
 ***TIP:*** En este taller ejecutaremos este archivo constantemente. Sin embargo, no será necesario que escriba el comando cada vez que lo necesite. 
 Puede presionar la flecha hacia arriba en su teclado para reutilizar comandos utilizados anteriormente.
